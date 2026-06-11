@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+            "minecraft-uuid":"uuid",
+            "discord-acount":"마크님",
+            "verify-date":"testuser"
+        },
+        {
+            "minecraft-uuid":"",
+            "discord-acount":"",
+            "verify-date":""
+        }
+    ]
+}
